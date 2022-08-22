@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>folder.png</file>
+        <file>close-button-icon-8.jpg.png</file>
+        <file>commodore.ico</file>
+        <file>RD53A.png</file>
+        <file>RD53B_A.png</file>
+        <file>RD53B_B.png</file>
+        <file>RD53B_C.png</file>
+    </qresource>
+</RCC>
